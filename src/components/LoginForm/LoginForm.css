@@ -1,0 +1,17 @@
+.LoginForm {
+  margin: -12px;
+}
+.LoginForm__row {
+  padding: 12px;
+}
+.LoginForm__error {
+  color: #f44336;
+  margin: 0;
+  font-size: 0.75rem;
+  text-align: left;
+  margin-top: 8px;
+  min-height: 1em;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  line-height: 1em;
+  margin-bottom: 0;
+}

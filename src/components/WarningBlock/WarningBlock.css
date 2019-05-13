@@ -1,0 +1,12 @@
+.WarningBlock {
+  position: absolute;
+  top: 48px;
+  left: 20px;
+  z-index: 100;
+  width: 30%;
+  box-sizing: "border-box";
+}
+
+.WarningBlock.--center {
+  position: static;
+}
